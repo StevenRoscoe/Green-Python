@@ -23,8 +23,9 @@
 #del ages['kevin']
 #print(ages)
 
-#You have acces to the 'in' and 'not in' operations in a dictionary:
+#You have access to the 'in' and 'not in' operations in a dictionary:
 #'kevin' in ages
+#'kevin' not in ages
 
 #If you wanted to create a dictionary, you can do the following:
 #weights = dict(kevin=160, steven=205, martha=125)
@@ -36,7 +37,7 @@
 #print(colors)
 
 
-#Now let's look at the methods that dictionaries to provide to us
+#Now let's look at the methods that dictionaries provide us:
 #ages = {'kevin': 61, 'bob': 79}
 #You can get all they keys in a doctionary by using the .keys() method
 #print(ages.keys())
