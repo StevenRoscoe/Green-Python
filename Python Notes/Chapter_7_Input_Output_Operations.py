@@ -9,12 +9,12 @@ print(int('1'))     #returns integer of 1
 #Everything in Python has a True and False value:
 print(bool(1))      #returns True
 print(bool(95.56))
-#Anything that has a 0 or nothing value if for the most part False:
+#Anything that has a 0 or nothing value for the most part is False:
 print(bool(0.0))
 print(bool(''))
 
 
-#The 'input' function is used to get user information for programs we write.
+#The 'input' function is used to get user information for programs we write
 name = input("What is your name? ")     #put a space after the end of the sentence otherwise the user will type directly after the string
 color = input("What is you favorite color? ")
 age = int(input("How old are you? "))
